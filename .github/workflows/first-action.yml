@@ -11,5 +11,5 @@ jobs:
       - name: multi lines
         run: |
               echo "Hi"
-              echi "Hello"
+              echo "Hello"
               
